@@ -6,7 +6,7 @@ SRC=\
 	src/main.cpp\
 	src/header.cpp\
 
-CXX=clang++
+CXX=g++ -std=c++17
 CXXFLAGS=-g -Iinclude/
 LFLAGS=
 LDFLAGS=
