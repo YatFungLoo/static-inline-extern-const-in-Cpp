@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# User Defined
+.cache/
+Example
+Example.dSYM/
+compile_commands.json
