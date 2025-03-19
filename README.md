@@ -1,6 +1,8 @@
 # Static Inline Extern Const in C++
 A short note to remind myself about these keywords. These are about linker (and to some extend translator).
 
+[A very good blog by Andreas Fertig](https://andreasfertig.com/blog/2023/03/static-inline-or-an-unnamed-namespace-whats-the-difference/)
+
 <!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-refresh-toc -->
 **Table of Contents**
 
